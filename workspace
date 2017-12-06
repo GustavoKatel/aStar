@@ -1,0 +1,77 @@
+# Created by Octave 4.0.0, Wed Dec 06 03:25:45 2017 -03 <gustavokatel>
+# name: adjs
+# type: matrix
+# rows: 5
+# columns: 5
+ 0 1 0 1 0
+ 0 0 1 0 0
+ 0 0 0 0 0
+ 0 0 0 0 1
+ 0 0 1 0 0
+
+
+# name: ans
+# type: scalar
+10
+
+
+# name: caminho1
+# type: matrix
+# rows: 1
+# columns: 3
+ 1 2 3
+
+
+# name: caminho2
+# type: matrix
+# rows: 1
+# columns: 4
+ 1 4 5 3
+
+
+# name: cost
+# type: scalar
+8
+
+
+# name: custoCaminho1
+# type: scalar
+8
+
+
+# name: custoCaminho2
+# type: scalar
+5
+
+
+# name: distances
+# type: matrix
+# rows: 5
+# columns: 5
+ 0 2 20 1 5
+ 19 0 6 7 5
+ 6 13 0 7 14
+ 15 11 1 0 2
+ 11 14 2 4 0
+
+
+# name: extras
+# type: matrix
+# rows: 5
+# columns: 2
+ 2 1
+ 1 2
+ 2 2
+ 2 1
+ 10 2
+
+
+# name: route
+# type: matrix
+# rows: 3
+# columns: 1
+ 1
+ 2
+ 3
+
+
